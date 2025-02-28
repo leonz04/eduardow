@@ -36,23 +36,23 @@
 }
 
 .clear-sky {
-    background-image: url("./clearsky.jpg");
+    background-image: url("/clearsky.jpg");
 }
 
 .scattered-clouds {
-    background-image: url("./scatteredclouds.jpg");
+    background-image: url("/scatteredclouds.jpg");
 }
 
 .overcast-clouds {
-    background-image: url("./overcastclouds.jpg");
+    background-image: url("/overcastclouds.jpg");
 }
 
 .few-clouds{
-    background-image: url("./fewclouds.jpg");
+    background-image: url("/fewclouds.jpg");
 }
 
 .broken-clouds{
-    background-image: url("./public/brokenclouds.jpg");
+    background-image: url("/brokenclouds.jpg");
 }
 
 .shower-rain,
